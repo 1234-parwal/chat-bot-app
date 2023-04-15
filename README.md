@@ -24,7 +24,7 @@ To run the server, you will need to use NPM Start. For fast real-time chat messa
 -For Frontend : Server is running on port 3000
   - npm install (to load the node modules)
   - npm start
-  - go to [{http://localhost:3000/}] to start with the UI.
+  - go to (http://localhost:3000/) to start with the UI.
 ### Features
 - Currently user can login in a private or public room with room name of his/her choice & further can share the room name to other users he/she wants to chat with.
 - Chat is deleted as soon as user logs out of the system.
